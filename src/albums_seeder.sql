@@ -1,5 +1,5 @@
 
-USE codeup_test_db;
+use codeup_test_db;
 
 insert into albums (artist_name, album_name, release_date, genre, sales) values
                 ('Michael Jackson', 'Thriller', 1982, 'Pop, Rock, R&B', 47.3),
